@@ -1,10 +1,8 @@
 # 💫 About Me:
 👋 Hi, I'm Emmanuel, the Mastermind and I build mobile app solutions with flutter.
-- Bring that app idea, I'll fix it
-- Bring That broken app, i'll fix it,
+- Bring that app idea, I'll fix it.
+- Bring That broken app, i'll fix it.
 - I'm the developer that other developers trust when they need things done well and quickly.
-
- I build high-quality mobile apps that are smooth, bug-free, and packed with the features you need—responsive designs, APIs, payment gateways, Firebase - you name it with hands-on experience from various projects and internships.<br><br>
 
 I build high-quality mobile apps that are:
 - Smooth and bug-free
@@ -36,13 +34,13 @@ A mobile application for creating and customizing greeting cards for various occ
 - **Role**: Solo Developer & Designer
 - **Technologies**: Flutter, Firebase, Riverpod
 - **Features**: Custom card creation, event management
-![Demo Preview](https://github.com/d3mastermind/3reed/blob/main/Media/threed.gif)
+![Demo Preview](https://github.com/d3mastermind/Portfolio_Files/blob/main/mycards.gif)
 
 ### Trade Wize
 A sophisticated trading platform enabling users to copy trades from experienced administrators.
 - **Features**: Multi-tier accounts, in-app subscriptions, auto trading, alert notifications, deep links
 - **Technical**: Custom API integration, complex data management
-![Demo Preview](https://github.com/d3mastermind/3reed/blob/main/Media/threed.gif)
+![Demo Preview](https://github.com/d3mastermind/Portfolio_Files/blob/main/tradewizeapp.gif)
 
 ### SLN Mobile
 The mobile version of [Street Lawyer Naija](https://streetlawyernaija.com).
