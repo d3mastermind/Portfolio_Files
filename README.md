@@ -34,25 +34,33 @@ A mobile application for creating and customizing greeting cards for various occ
 - **Role**: Solo Developer & Designer
 - **Technologies**: Flutter, Firebase, Riverpod
 - **Features**: Custom card creation, event management
+
+[watch the Video Preview here](https://github.com/d3mastermind/Portfolio_Files/blob/main/mycards.gif)
 ![Demo Preview](https://github.com/d3mastermind/Portfolio_Files/blob/main/mycards.gif)
+
 
 ### Trade Wize
 A sophisticated trading platform enabling users to copy trades from experienced administrators.
 - **Features**: Multi-tier accounts, in-app subscriptions, auto trading, alert notifications, deep links
 - **Technical**: Custom API integration, complex data management
+
+![watch the Video Preview here](https://github.com/d3mastermind/Portfolio_Files/blob/main/tradewizeapp.mp4)
 ![Demo Preview](https://github.com/d3mastermind/Portfolio_Files/blob/main/tradewizeapp.gif)
+
 
 ### SLN Mobile
 The mobile version of [Street Lawyer Naija](https://streetlawyernaija.com).
 - **Role**: WordPress API Integration Specialist
 - **Achievement**: Successfully translated web functionality to mobile platform
-![Demo Preview](https://github.com/d3mastermind/3reed/blob/main/Media/threed.gif)
+
+[Demo Preview](https://github.com/d3mastermind/3reed/blob/main/Media/threed.)
+
 
 ### Trade Wize Admin
 Web administration panel for the Trade Wize platform.
 - **Features**: Trade management, user subscription oversight, automated trade execution
 - **Technologies**: Web technologies, real-time updates
-![Demo Preview](https://github.com/d3mastermind/3reed/blob/main/Media/threed.gif)
+[Demo Preview](https://github.com/d3mastermind/3reed/blob/main/Media/)
 
 > Note: The applications listed above are client projects, hence only video demonstrations are available.
 
