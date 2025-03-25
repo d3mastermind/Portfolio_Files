@@ -51,6 +51,16 @@ A sophisticated trading platform enabling users to copy trades from experienced 
 
 📱 [Watch Video Demo](tradewizeapp.mp4)
 
+### Telex Mobile
+A fast and secure chat app designed for teams, featuring real-time messaging, mentions (@channel, @here), and seamless collaboration.
+- **Role**: Lead Mobile Developer
+- **Technologies**: Flutter, Firebase, Riverpod
+- **Features**: Real-time messaging, @mentions, file sharing, team collaboration
+- **Technical**: WebSocket integration, push notifications, message encryption
+
+#### Preview
+![Telex Mobile](Telex.png)
+
 ### SLN Mobile
 The mobile version of [Street Lawyer Naija](https://streetlawyernaija.com).
 - **Role**: WordPress API Integration Specialist
@@ -61,15 +71,7 @@ The mobile version of [Street Lawyer Naija](https://streetlawyernaija.com).
 
 📱 [Watch Video Demo](SLNMobile.mp4)
 
-### Telex Mobile
-A fast and secure chat app designed for teams, featuring real-time messaging, mentions (@channel, @here), and seamless collaboration.
-- **Role**: Lead Mobile Developer
-- **Technologies**: Flutter, Firebase, Riverpod
-- **Features**: Real-time messaging, @mentions, file sharing, team collaboration
-- **Technical**: WebSocket integration, push notifications, message encryption
 
-#### Preview
-![Telex Mobile](Telex.png)
 
 ### Telex Desktop
 The desktop companion for Telex, bringing all the power of team communication to a larger screen.
